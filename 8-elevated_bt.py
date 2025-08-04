@@ -33,6 +33,7 @@ import flet as ft
 # 
 #     page.add(b, t)
 
+# Botões elevados com conteúdo customizado
 def main(page: ft.Page):
     page.title = "Botão com conteúdo customizado"
     page.theme_mode = ft.ThemeMode.LIGHT
